@@ -1,4 +1,7 @@
 def gdb(a,b):
+    if a < b:
+        a,b = b,a
+        
     r = b % a
     q = b//a
     print("q:", q)
