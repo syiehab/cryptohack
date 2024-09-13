@@ -27,4 +27,5 @@ result_image = Image.fromarray(xor_result)
 result_image.save('xor_image.png')
 result_image.show()
 ```
-C:\Users\user\Documents\uniten\ctf\cryptohack\xor_image.png
+![xor_image](https://github.com/user-attachments/assets/8929e1b8-1b63-4e32-a70f-dbc056c3d0a6)
+
