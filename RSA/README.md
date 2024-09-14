@@ -33,6 +33,8 @@ print(s)
 ```
 
 
+
+
 # Monoprime
 
 ![image](https://github.com/user-attachments/assets/2bd52f3c-04e0-494f-9202-d2a9801b28d0)
@@ -58,5 +60,8 @@ d = inverse(e, n-1)
 m = pow(ct, d, n)
 print(long_to_bytes(m))
 ```
+
+the output is:
+```b'crypto{0n3_pr1m3_41n7_pr1m3_l0l}'```
 
 
